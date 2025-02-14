@@ -1,13 +1,13 @@
 // import Navbar from '../components/Navbar'
-import ProductSection from '../componentsNew/ProductSection'
+import ProductSection from '../components/ProductSection'
 // import SubNavbar from '../components/SubNavbar'
-import Carousel from '../componentsNew/Carousel'
-import Banner from '../componentsNew/Banner'
+import Carousel from '../components/Carousel'
+import Banner from '../components/Banner'
 // import ProductCard from '../components/ProductCard'
-import CustomNavbar from '../componentsNew/Navbar'
-import SubNavbar from '../componentsNew/SubNavbar'
+import CustomNavbar from '../components/Navbar'
+import SubNavbar from '../components/SubNavbar'
 
-import ProductGrid from '../componentsNew/WomenProductCard'
+import ProductGrid from '../components/WomenProductCard'
 
 
 function Home(){

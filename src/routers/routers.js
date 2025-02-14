@@ -5,8 +5,8 @@ import Home from '../screens/Home'
 import MenProducts from "../screens/MenProducts"
 import WomenProducts from "../screens/WomenProducts"
 import KidsProducts from "../screens/KidsProducts"
-import Login from '../componentsNew/Login';
-import Signup from '../componentsNew/Signup';
+import Login from '../components/Login';
+import Signup from '../components/Signup';
 
 
 function Routers() {
