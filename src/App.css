@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: rgb(117, 116, 116);
+  padding-top: 60px; /* Adjust based on navbar height */
+}
+
+
+
