@@ -6,6 +6,7 @@ import { Link } from "react-router-dom";
 
 export default function CustomNavbar() {
   const [dropdown, setDropdown] = useState(null);
+  const [profileDropdown, setProfileDropdown] = useState(false);
 
   const categories = [
     {
@@ -90,10 +91,40 @@ export default function CustomNavbar() {
             <FaShoppingCart size={22} />
             <span className="icon-text">CART</span>
           </Link>
-          <Link href="#" className="icon-item">
-            <FaUser size={22} />
-            <span className="icon-text">PROFILE</span>
-          </Link>
+          <div 
+            className="profile-container"
+            onMouseEnter={() => setProfileDropdown(true)}
+            onMouseLeave={() => setProfileDropdown(false)}
+          >
+            <div className="icon-item profile-icon">
+              <FaUser size={22} />
+              <span className="icon-text">PROFILE</span>
+            </div>
+
+            {profileDropdown && (
+              <div className="dropdown-menu profile-menu">
+                <div className="profile-header">
+                  <strong>WELCOME!</strong>
+                  <p>To view account details</p>
+                  <Link to="/login" className="login-button">LOGIN</Link>
+
+                  <Link to="/signup" className="dropdown-item">Sign Up</Link>
+
+
+                  <div className="dropdown-divider"></div>
+                <Link to="#" className="dropdown-item">ORDERS</Link>
+                <Link to="#" className="dropdown-item">RETURN REPLACEMENT</Link>
+                <Link to="#" className="dropdown-item">LR CREDITS</Link>
+                <div className="dropdown-divider"></div>
+                <Link to="#" className="dropdown-item">CUSTOMER SUPPORT</Link>
+                <Link to="#" className="dropdown-item">FAQ & HELP</Link>
+                <div className="dropdown-divider"></div>
+                <button className="language-button">हिन्दी</button>
+                </div>
+                
+              </div>
+            )}
+          </div>
         </div>
       </div>
     </header>
