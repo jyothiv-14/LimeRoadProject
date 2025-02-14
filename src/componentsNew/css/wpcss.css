@@ -1,0 +1,80 @@
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .product-card {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .image-container {
+    position: relative;
+  }
+  
+  .main-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+  }
+  
+  .title-overlay {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 5px 10px;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  
+  .description {
+    font-size: 14px;
+    color: #555;
+    padding: 10px;
+  }
+  
+  .sub-images {
+    display: flex;
+    gap: 5px;
+    padding: 10px;
+  }
+  
+  .sub-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+    object-fit: cover;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .likes {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+  

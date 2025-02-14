@@ -1,11 +1,13 @@
 // import Navbar from '../components/Navbar'
-import ProductSection from '../components/ProductSection'
+import ProductSection from '../componentsNew/ProductSection'
 // import SubNavbar from '../components/SubNavbar'
-import Carousel from '../components/Carousel'
-import Banner from '../components/Banner'
-import ProductCard from '../components/ProductCard'
+import Carousel from '../componentsNew/Carousel'
+import Banner from '../componentsNew/Banner'
+// import ProductCard from '../components/ProductCard'
 import CustomNavbar from '../componentsNew/Navbar'
 import SubNavbar from '../componentsNew/SubNavbar'
+
+import ProductGrid from '../componentsNew/WomenProductCard'
 
 
 function Home(){
@@ -35,7 +37,8 @@ function Home(){
 
         <div className='container bg-white '>
           <div className='row'>
-            <ProductCard/>
+            <ProductGrid/>
+            
           </div>
         </div>
 

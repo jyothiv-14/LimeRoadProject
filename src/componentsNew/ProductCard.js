@@ -3,7 +3,7 @@ import React from "react";
 // import { Button } from "@/components/ui/button";
 import { Card, CardContent, Button } from "@mui/material";
 import { Heart, MessageCircle } from "lucide-react";
-import "./pro.css"; // Import CSS file for styling
+import "./css/pro.css"; // Import CSS file for styling
 import images from "../assets/images";
 import { Link } from 'react-router-dom';
 
