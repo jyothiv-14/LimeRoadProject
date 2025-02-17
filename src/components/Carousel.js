@@ -102,20 +102,47 @@ import images from "../assets/images";
 function Carousel() {
   return (
     <div id="carouselExampleControls"
-      className="carousel slide"
+      className="carousel slide mt-4"
       data-bs-ride="carousel"
       data-bs-interval="1000"
-      style={{ margin: '10px 280px 0px 280px' }}
+      style={{ margin: '10px auto', width: '90%', maxWidth: '1200px', overflow: 'hidden' }}
     >
       <div className="carousel-inner">
         <div className="carousel-item active">
-          <img src={images.carousel1} className="d-block w-100" alt="..." height="250px" />
+          <div className='carousel-slide-wallpaper' style={{ display: 'flex', width: '100%', gap: '10px' }}>
+              <img src={images.carousel1} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }}/>
+              <img src={images.carousel2} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }}/>
+          </div>
         </div>
         <div className="carousel-item">
-          <img src={images.carousel2} className="d-block w-100" alt="..." height="250px" />
+          <div className='carousel-slide-wallpaper' style={{ display: 'flex', width: '100%', gap: '10px' }}>
+              <img src={images.carousel2} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }}/>
+              <img src={images.carousel3} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }} />
+          </div>
         </div>
         <div className="carousel-item">
-          <img src={images.carousel3} className="d-block w-100" alt="..." height="250px" />
+          <div className='carousel-slide-wallpaper' style={{ display: 'flex', width: '100%', gap: '10px' }}>
+              <img src={images.carousel3} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }}/>
+              <img src={images.carousel4} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }}/>
+          </div>
+        </div>
+        <div className="carousel-item">
+          <div className='carousel-slide-wallpaper' style={{ display: 'flex', width: '100%', gap: '10px' }}>
+              <img src={images.carousel4} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }}/>
+              <img src={images.carousel5} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }}/>
+          </div>
+        </div>
+        <div className="carousel-item">
+          <div className='carousel-slide-wallpaper' style={{ display: 'flex', width: '100%', gap: '10px' }}>
+              <img src={images.carousel5} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }}/>
+              <img src={images.carousel6} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }}/>
+          </div>
+        </div>
+        <div className="carousel-item">
+          <div className='carousel-slide-wallpaper' style={{ display: 'flex', width: '100%', gap: '10px' }}>
+              <img src={images.carousel6} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }}/>
+              <img src={images.carousel7} className="d-block w-100" alt="..." style={{ width: '50%', height: '300px', objectFit: 'cover', borderRadius: '10px' }}/>
+          </div>
         </div>
       </div>
       <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

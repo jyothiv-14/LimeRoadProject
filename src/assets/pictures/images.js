@@ -42,6 +42,14 @@ const images = {
     carousel6:require("./carousel6.jpg"),
     carousel7:require("./carousel7.jpg"),
     banner:require("./banner.jpg"),
+
+
+
+    shirt1:require("./shirt1.jpg"),
+    shirt2:require("./shirt2.jpg"),
+    simshirt1:require("./simshirt1.jpg"),
+    simshirt2:require("./simshirt2.jpg"),
+    simshirt3:require("./simshirt3.jpg"),
   };
   
   export default images;

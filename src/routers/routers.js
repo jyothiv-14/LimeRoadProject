@@ -7,6 +7,9 @@ import WomenProducts from "../screens/WomenProducts"
 import KidsProducts from "../screens/KidsProducts"
 import Login from '../components/Login';
 import Signup from '../components/Signup';
+import Product from '../components/cards/product';
+import CartPage from '../components/cards/CartPage';
+//import ProductPage from '../components/SingleP';
 
 
 function Routers() {
@@ -17,6 +20,8 @@ function Routers() {
             <Route index element={<Home/>}/>
             <Route path='/login' element={<Login/>}/>
             <Route path='/signup' element={<Signup/>}/>
+            <Route path='/product' element={<Product/>}/>
+            <Route path='/cart' element={<CartPage/>}/>
             <Route path='/women' element={<WomenProducts/>}/>
             <Route path='/men' element={<MenProducts/>}/>
             <Route path='/kids' element={<KidsProducts/>}/>

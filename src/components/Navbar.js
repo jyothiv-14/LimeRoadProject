@@ -87,7 +87,7 @@ export default function CustomNavbar() {
             <FaSearch size={22} />
             <span className="icon-text">SEARCH</span>
           </Link>
-          <Link href="#" className="icon-item">
+          <Link to="/cart" className="icon-item">
             <FaShoppingCart size={22} />
             <span className="icon-text">CART</span>
           </Link>

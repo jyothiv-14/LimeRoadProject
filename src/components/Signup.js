@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "./css/signup.css";
+import CustomNavbar from "./Navbar";
 
 export default function Signup() {
   const [formData, setFormData] = useState({
@@ -23,7 +24,11 @@ export default function Signup() {
   };
 
   return (
+    <div>
+      <CustomNavbar/>
     <div className="signup-container">
+      
+      
       <div className="signup-box">
         <h2>Sign Up</h2>
         <form onSubmit={handleSubmit}>
@@ -70,6 +75,7 @@ export default function Signup() {
           Already have an account? <Link to="/login">Login</Link>
         </p>
       </div>
+    </div>
     </div>
   );
 }

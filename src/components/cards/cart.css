@@ -1,0 +1,120 @@
+.cart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f5f5f5;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .product-section, .summary-section {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 20px;
+  }
+  
+  .store-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .product-details {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .product-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+  }
+  
+  .product-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .product-brand, .product-stock, .product-size {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .product-price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #e60023;
+  }
+  
+  .original-price {
+    text-decoration: line-through;
+    color: #999;
+  }
+  
+  .quantity-control {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .quantity-btn {
+    background: #ddd;
+    border: none;
+    padding: 5px 10px;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .wishlist-btn, .buy-now-btn {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .wishlist-btn {
+    background: none;
+    color: #007bff;
+  }
+  
+  .buy-now-btn {
+    background: #e60023;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .summary-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .coupon-text {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .divider {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 10px 0;
+  }
+  
+  .summary-item, .total-amount {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  
+  .free-text {
+    color: green;
+  }
+  

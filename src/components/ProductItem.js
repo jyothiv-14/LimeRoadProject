@@ -1,10 +1,14 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 let ProductItem = ({product}) => {
   return (
     <div className="col-lg-3 col-sm-6 d-flex flex-column align-items-center justify-content-center product-item my-3">
             <div className="product"> 
-                <img style={{height:"40vh"}} src={product.image} alt={product.title}/>
+              <Link to='/product'>
+              <img style={{height:"40vh"}} src={product.image} alt={product.title}/>
+              </Link>
+                
 
             </div>
                 <div className="title pt-4 pb-1">{product.title}</div>
