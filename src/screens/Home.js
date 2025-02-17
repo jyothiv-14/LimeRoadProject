@@ -1,9 +1,9 @@
 
-import ProductSection from '../components/ProductSection'
+//import ProductSection from '../components/ProductSection'
 
 import Carousel from '../components/Carousel'
 
-import ProductCard from '../components/ProductCard'
+//import ProductCard from '../components/ProductCard'
 import CustomNavbar from '../components/Navbar'
 import SubNavbar from '../components/SubNavbar'
 import ProductDisplay from '../components/cards/ProductCardMain'
@@ -24,7 +24,7 @@ function Home(){
               
 
 
-          <div className='container' style={{"display":"flex"}}>
+          <div className='container' >
               <div className='row'>
                   <ProductDisplay/>
               </div>
@@ -33,22 +33,22 @@ function Home(){
             
           
 
-        <div className='container bg-white '>
+        {/* <div className='container bg-white '>
           <div className='row'>
             <ProductCard/>
             
           </div>
-        </div>
+        </div> */}
 
 
 
 
 
-        <div className='container bg-white '>
+        {/* <div className='container bg-white '>
           <div className='row'>
             <ProductSection category={'women'}/>
           </div>
-        </div>
+        </div> */}
   </>)
 }
 

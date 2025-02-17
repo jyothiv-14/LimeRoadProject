@@ -9,6 +9,7 @@ import Login from '../components/Login';
 import Signup from '../components/Signup';
 import Product from '../components/cards/product';
 import CartPage from '../components/cards/CartPage';
+import HomeProducts from '../screens/HomeProducts';
 //import ProductPage from '../components/SingleP';
 
 
@@ -25,6 +26,7 @@ function Routers() {
             <Route path='/women' element={<WomenProducts/>}/>
             <Route path='/men' element={<MenProducts/>}/>
             <Route path='/kids' element={<KidsProducts/>}/>
+            <Route path='/homeproducts' element={<HomeProducts/>}/>
         </Route>
       </Routes>
       </BrowserRouter>

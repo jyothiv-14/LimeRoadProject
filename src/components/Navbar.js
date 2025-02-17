@@ -36,7 +36,7 @@ export default function CustomNavbar() {
     },
     {
       name: "Home",
-      link: "/home",
+      link: "/homeproducts",
       sections: [
         { title: "Decor", items: ["Wall Art", "Clocks", "Lamps"] },
         { title: "Furniture", items: ["Sofas", "Tables", "Chairs"] },
