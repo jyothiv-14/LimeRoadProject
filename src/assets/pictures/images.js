@@ -50,6 +50,17 @@ const images = {
     simshirt1:require("./simshirt1.jpg"),
     simshirt2:require("./simshirt2.jpg"),
     simshirt3:require("./simshirt3.jpg"),
+
+    kurta1:require("./kurta1.jpg"),
+    kurta22:require("./kurta2.jpg"),
+    simkurta1:require("./simKurta1.jpg"),
+    simkurta2:require("./simkurta2.jpg"),
+    simkurta3:require("./simkurta3.jpg"),
+
+    karishma:require("./karishma.jpg"),
+    getsetready:require("./getsetready.jpg"),
+    takeinspo:require("./takeinspo.jpg"),
+    allpinky:require("./allpinky.jpg")
   };
   
   export default images;

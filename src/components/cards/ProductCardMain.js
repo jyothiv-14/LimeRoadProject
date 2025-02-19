@@ -37,11 +37,33 @@ const products = [
   },
   {
     title: 'GET SET READY',
-    image: images.suits,
+    image: images.getsetready,
     description: 'Florals for our women in love!',
     likes: 14,
     extraCount: 18
   },
+  {
+    title: "KARISHMA'S POWER LOOK",
+    image: images.karishma,
+    description: 'Florals for our women in love!',
+    likes: 17,
+    extraCount: 13
+  },
+  {
+    title: "TAKE INSPO",
+    image: images.takeinspo,
+    description: 'Florals for our women in love!',
+    likes: 17,
+    extraCount: 13
+  },
+  {
+    title: "ALL PINKY FLOWERY",
+    image: images.allpinky,
+    description: 'Florals for our women in love!',
+    likes: 17,
+    extraCount: 13
+  },
+
 ];
 
 const ProductDisplay = () => {

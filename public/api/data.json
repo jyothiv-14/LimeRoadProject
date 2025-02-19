@@ -1,0 +1,315 @@
+{
+    "mens_products":[
+        {"id": 1,
+        "title": "Men shirts",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "t-shirt",
+          "original_price":220,
+          "offer_percent":50,
+          "brand_name":"TRENDS",
+          "brand_image":"https://n-img3.junaroad.com/stories/story_p_6762beb063d80c684669ba40-1734526289.jpeg",
+          "size":["M","S","L","XL","XXL","XXL"],
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/28219632/2024/3/12/2f53aaab-40e1-4c5b-8148-6ad150e5f4341710256687634CampusSutraMenClassicOpaqueCheckedCasualShirt2.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120 }
+    },
+    {"id": 2,
+        "title": "solid maroon cotton blend casual shirt",
+        "price": "₹ 419",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://thefoomer.in/cdn/shop/products/jpeg-optimizer_PATP5270.jpg?v=1680164001",
+        "rating": {
+          "rate": 3.9,
+          "count": 120 }
+    },
+    {"id": 3,
+            "title": "White textured slim fit shirt",
+            "price": "₹ 1022",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://www.snitch.co.in/cdn/shop/files/b3f2ffe6726b45be503c044ce6b842a3.jpg?v=1728373682",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 4,
+            "title": "Buy Navy Blue Regular Fit Long Sleeve Oxford Shirt from Next India",
+            "price": "₹ 675",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/724855s.jpg?im=Resize,width=750",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 5,
+            "title": "Powerlook Men's Olive And Off-White Regular Fit Checks Plaid Full Sleeves Shirt",
+            "price": "₹ 712",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://cdn-media.powerlook.in/catalog/product/d/p/dp21203321.jpg?aio=w-640",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 6,
+            "title": "PANKHIL Men Checkered Casual Grey Shirt",
+            "price": "₹ 366",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shirt/x/l/d/s-st28-vebnor-original-imagq6aqgh2hzv22.jpeg?q=90&crop=false",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 7,
+            "title": "Kerala Shirt | Premium Men Shirt | Men Regular Fit XL",
+            "price": "₹ 1299",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://www.mydesignation.com/cdn/shop/files/kerala-shirt-918373.jpg?v=1722655636",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 8,
+            "title": "Navy Club Wear Butterfly Printed Shirt Navy / 3XL",
+            "price": "₹ 1549",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://thefoomer.in/cdn/shop/files/final_8e233dea-27be-4183-bca0-441406529afa.jpg?v=1716523836",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 9,
+            "title": "7 Ways to Style Your Everyday Jeans And T-Shirt | Louis Philippe Blog",
+            "price": "₹ 1419",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://www.louisphilippe.com/blog/wp-content/uploads/2022/10/blog11.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 10,
+            "title": "Nologo Full Sleeves Pure Cotton Black T-Shirt (NLCORERNFS-002 - Xtra Xtra Large) for Men",
+            "price": "₹ 449",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://static.cilory.com/723373-thickbox_default/nologo-full-sleeves-pure-cotton-black-t-shirt.jpg.webp",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        }
+      ],
+      "womens_products":[
+        {"id": 1,
+        "title": "Women dress",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "women's clothing",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfUBNL3ePVuVrQDpkkwXHa5bwt2gA57OYUxnxBOWOIQzemahc8ZJOT7mP019BDbxcHtW10Dhqo4I9NXBVAAk0SdDsrXQeNyKoyTtW9JTvdxA4fqtWc0GY1pVs",
+        "rating": {
+          "rate": 3.9,
+          "count": 120 }
+    },
+    {"id": 2,
+        "title": "solid maroon cotton blend casual shirt",
+        "price": "₹ 419",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "women's clothing",
+        "image": "https://royalmarque.co/cdn/shop/files/yellow.jpg?v=1716455490",
+        "rating": {
+          "rate": 3.9,
+          "count": 120 }
+    },
+    {"id": 3,
+            "title": "White textured slim fit shirt",
+            "price": "₹ 1022",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "women's clothing",
+            "image": "https://jayaearth.com/cdn/shop/products/1702100607-1332019074.jpg?v=1705752415",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 4,
+            "title": "Buy Navy Blue Regular Fit Long Sleeve Oxford Shirt from Next India",
+            "price": "₹ 675",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "women's clothing",
+            "image": "https://bsfashionsurat.com/wp-content/uploads/2024/09/party-wear-kurta-set-for-women.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 5,
+            "title": "Powerlook Men's Olive And Off-White Regular Fit Checks Plaid Full Sleeves Shirt",
+            "price": "₹ 712",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "women's clothing",
+            "image": "https://fashor.com/cdn/shop/files/22627_1.jpg?v=1694851935&width=533",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 6,
+            "title": "PANKHIL Men Checkered Casual Grey Shirt",
+            "price": "₹ 366",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "women's clothing",
+            "image": "https://ladyindia.com/cdn/shop/products/71NuUxAZgJL._UL1500_1024x1024.jpg?v=1571439224",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 7,
+            "title": "Kerala Shirt | Premium Men Shirt | Men Regular Fit XL",
+            "price": "₹ 1299",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "women's clothing",
+            "image": "https://fcity.in/images/products/257706853/fzgfd_512.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 8,
+            "title": "Navy Club Wear Butterfly Printed Shirt Navy / 3XL",
+            "price": "₹ 1549",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "women's clothing",
+            "image": "https://fcity.in/images/products/181604096/s0fon_512.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 9,
+            "title": "7 Ways to Style Your Everyday Jeans And T-Shirt | Louis Philippe Blog",
+            "price": "₹ 1419",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "women's clothing",
+            "image": "https://i.pinimg.com/736x/64/f9/26/64f926bf0d8a0b6fdce2946243e0f04e.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 10,
+            "title": "Nologo Full Sleeves Pure Cotton Black T-Shirt (NLCORERNFS-002 - Xtra Xtra Large) for Men",
+            "price": "₹ 449",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "women's clothing",
+            "image": "https://i.etsystatic.com/26009472/r/il/cbe05b/3155631749/il_570xN.3155631749_9lbe.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        }
+      ],
+      "kids_products":[
+        {"id": 1,
+        "title": "kids shirts",
+        "price": 109.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "kid's clothing",
+        "image": "https://www.bownbee.com/cdn/shop/files/website_723_735_shop_the_look_1.jpg?v=1725884297&width=2400",
+        "rating": {
+          "rate": 3.9,
+          "count": 120 }
+    },
+    {"id": 2,
+        "title": "solid maroon cotton blend casual shirt",
+        "price": "₹ 419",
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "kid's clothing",
+        "image": "https://images.meesho.com/images/products/437786080/9hswu_512.webp",
+        "rating": {
+          "rate": 3.9,
+          "count": 120 }
+    },
+    {"id": 3,
+            "title": "White textured slim fit shirt",
+            "price": "₹ 1022",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "kid's clothing",
+            "image": "https://www.foreverkidz.in/cdn/shop/files/Blushing_Pink_Party_Dress-5015016.jpg?crop=center&height=2100&v=1730113131&width=1500",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 4,
+            "title": "Buy Navy Blue Regular Fit Long Sleeve Oxford Shirt from Next India",
+            "price": "₹ 675",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "kid's clothing",
+            "image": "https://www.anantexports.in/cdn/shop/products/WhatsAppImage2022-09-01at6.17.46PM_853x.jpg?v=1662039929",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 5,
+            "title": "Powerlook kid's Olive And Off-White Regular Fit Checks Plaid Full Sleeves Shirt",
+            "price": "₹ 712",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "kid's clothing",
+            "image": "https://littlemuffet.in/cdn/shop/files/Twinning_Girls_Boys_Set.png?v=1715335230&width=540",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 6,
+            "title": "PANKHIL Men Checkered Casual Grey Shirt",
+            "price": "₹ 366",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "kid's clothing",
+            "image": "https://i.etsystatic.com/11463421/r/il/d65ffb/1869837863/il_fullxfull.1869837863_exek.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 7,
+            "title": "Kerala Shirt | Premium Men Shirt | Men Regular Fit XL",
+            "price": "₹ 1299",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "kid's clothing",
+            "image": "https://m.media-amazon.com/images/I/81P5KwT73dL._AC_UY1100_.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 8,
+            "title": "Navy Club Wear Butterfly Printed Shirt Navy / 3XL",
+            "price": "₹ 1549",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "kid's clothing",
+            "image": "https://www.mumkins.in/cdn/shop/files/ethnic-wear-for-girls-gs21ish01-sky-blue-1.jpg?v=1725516247&width=1080",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 9,
+            "title": "7 Ways to Style Your Everyday Jeans And T-Shirt | Louis Philippe Blog",
+            "price": "₹ 1419",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "kid's clothing",
+            "image": "https://www.apella.in/cdn/shop/files/Hot_Pink_Kids_Co-ord_Set_7.jpg?v=1722239409&width=533",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        },
+        {"id": 10,
+            "title": "Nologo Full Sleeves Pure Cotton Black T-Shirt (NLCORERNFS-002 - Xtra Xtra Large) for Men",
+            "price": "₹ 449",
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "kid's clothing",
+            "image": "https://www.bullionknot.com/cdn/shop/files/02_136b08d1-5ce8-4a8a-8c17-b0d5d2fd4cca.jpg?v=1727088264&width=1200",
+            "rating": {
+              "rate": 3.9,
+              "count": 120 }
+        }
+      ]
+    }
+      
+      

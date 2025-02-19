@@ -4,7 +4,7 @@ import React from "react";
 import { Card, CardContent, Button } from "@mui/material";
 import { Heart, MessageCircle } from "lucide-react";
 import "./css/pro.css"; // Import CSS file for styling
-import images from "../assets/images";
+import images from "../assets/pictures/images";
 import { Link } from 'react-router-dom';
 
 const ProductCard = () => {

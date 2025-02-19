@@ -1,3 +1,4 @@
+
 import React from 'react'
 import './productpage.css'
 import { Link } from 'react-router-dom'
@@ -11,7 +12,7 @@ function ProductPage(props) {
 
             <div class="overlay" style={{"display":"none"}}></div>
             <div class="search-section">
-            <div class="container-fluid container-xl">
+            <div class="container container-xl">
                 <div class="row main-content ml-md-0">
                 <div class="sidebar col-md-3 px-0">
                     <h1 class="border-bottom filter-header d-flex d-md-none p-3 mb-0 align-items-center">
