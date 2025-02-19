@@ -1,0 +1,106 @@
+{
+    "categories": [
+      {
+        "name": "Women",
+        "link": "/women",
+        "sections": [
+          {
+            "title": "Ethnic Wear",
+            "items": [
+              { "name": "Kurta Kurtis", "link": "/women/ethnic/kurta-kurtis" },
+              { "name": "Sarees", "link": "/women/ethnic/sarees" },
+              { "name": "Lehengas", "link": "/women/ethnic/lehenga" },
+              { "name": "Ethnic Dresses", "link": "/women/ethnic/dresses" }
+            ]
+          },
+          {
+            "title": "Western Wear",
+            "items": [
+              { "name": "Dresses", "link": "/women/western/dresses" },
+              { "name": "Tops", "link": "/women/western/tops" },
+              { "name": "Jeans & Jeggings", "link": "/women/western/jeans" },
+              { "name": "T-Shirts", "link": "/women/western/t-shirts" }
+            ]
+          },
+          {
+            "title": "Sports & Activewear",
+            "items": [
+              { "name": "Swim Wear", "link": "/women/sports/swimwear" },
+              { "name": "Tights", "link": "/women/sports/tights" },
+              { "name": "Track Pants", "link": "/women/sports/track-pants" },
+              { "name": "Sports Bra", "link": "/women/sports/sports-bra" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Men",
+        "link": "/men",
+        "sections": [
+          {
+            "title": "Top Wear",
+            "items": [
+              { "name": "Shirts", "link": "/men/top/shirts" },
+              { "name": "T-Shirts", "link": "/men/top/t-shirts" },
+              { "name": "Jackets", "link": "/men/top/jackets" },
+              { "name": "Sweatshirts", "link": "/men/top/sweatshirts" }
+            ]
+          },
+          {
+            "title": "Bottom Wear",
+            "items": [
+              { "name": "Jeans", "link": "/men/bottom/jeans" },
+              { "name": "Trousers", "link": "/men/bottom/trousers" },
+              { "name": "Shorts", "link": "/men/bottom/shorts" },
+              { "name": "Track Pants", "link": "/men/bottom/track-pants" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kids",
+        "link": "/kids",
+        "sections": [
+          {
+            "title": "Boys Clothing",
+            "items": [
+              { "name": "T-Shirts", "link": "/kids/boys/t-shirts" },
+              { "name": "Jeans", "link": "/kids/boys/jeans" },
+              { "name": "Shorts", "link": "/kids/boys/shorts" }
+            ]
+          },
+          {
+            "title": "Girls Clothing",
+            "items": [
+              { "name": "Dresses", "link": "/kids/girls/dresses" },
+              { "name": "Skirts", "link": "/kids/girls/skirts" },
+              { "name": "Tops", "link": "/kids/girls/tops" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Home",
+        "link": "/homeproducts",
+        "sections": [
+          {
+            "title": "Decor",
+            "items": [
+              { "name": "Wall Art", "link": "/home/decor/wall-art" },
+              { "name": "Clocks", "link": "/home/decor/clocks" },
+              { "name": "Lamps", "link": "/home/decor/lamps" }
+            ]
+          },
+          {
+            "title": "Furniture",
+            "items": [
+              { "name": "Sofas", "link": "/home/furniture/sofas" },
+              { "name": "Tables", "link": "/home/furniture/tables" },
+              { "name": "Chairs", "link": "/home/furniture/chairs" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,106 +1,2136 @@
-{
-    "categories": [
-      {
-        "name": "Women",
-        "link": "/women",
-        "sections": [
-          {
-            "title": "Ethnic Wear",
-            "items": [
-              { "name": "Kurta Kurtis", "link": "/women/ethnic/kurta-kurtis" },
-              { "name": "Sarees", "link": "/women/ethnic/sarees" },
-              { "name": "Lehengas", "link": "/women/ethnic/lehenga" },
-              { "name": "Ethnic Dresses", "link": "/women/ethnic/dresses" }
-            ]
-          },
-          {
-            "title": "Western Wear",
-            "items": [
-              { "name": "Dresses", "link": "/women/western/dresses" },
-              { "name": "Tops", "link": "/women/western/tops" },
-              { "name": "Jeans & Jeggings", "link": "/women/western/jeans" },
-              { "name": "T-Shirts", "link": "/women/western/t-shirts" }
-            ]
-          },
-          {
-            "title": "Sports & Activewear",
-            "items": [
-              { "name": "Swim Wear", "link": "/women/sports/swimwear" },
-              { "name": "Tights", "link": "/women/sports/tights" },
-              { "name": "Track Pants", "link": "/women/sports/track-pants" },
-              { "name": "Sports Bra", "link": "/women/sports/sports-bra" }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Men",
-        "link": "/men",
-        "sections": [
-          {
-            "title": "Top Wear",
-            "items": [
-              { "name": "Shirts", "link": "/men/top/shirts" },
-              { "name": "T-Shirts", "link": "/men/top/t-shirts" },
-              { "name": "Jackets", "link": "/men/top/jackets" },
-              { "name": "Sweatshirts", "link": "/men/top/sweatshirts" }
-            ]
-          },
-          {
-            "title": "Bottom Wear",
-            "items": [
-              { "name": "Jeans", "link": "/men/bottom/jeans" },
-              { "name": "Trousers", "link": "/men/bottom/trousers" },
-              { "name": "Shorts", "link": "/men/bottom/shorts" },
-              { "name": "Track Pants", "link": "/men/bottom/track-pants" }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Kids",
-        "link": "/kids",
-        "sections": [
-          {
-            "title": "Boys Clothing",
-            "items": [
-              { "name": "T-Shirts", "link": "/kids/boys/t-shirts" },
-              { "name": "Jeans", "link": "/kids/boys/jeans" },
-              { "name": "Shorts", "link": "/kids/boys/shorts" }
-            ]
-          },
-          {
-            "title": "Girls Clothing",
-            "items": [
-              { "name": "Dresses", "link": "/kids/girls/dresses" },
-              { "name": "Skirts", "link": "/kids/girls/skirts" },
-              { "name": "Tops", "link": "/kids/girls/tops" }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Home",
-        "link": "/homeproducts",
-        "sections": [
-          {
-            "title": "Decor",
-            "items": [
-              { "name": "Wall Art", "link": "/home/decor/wall-art" },
-              { "name": "Clocks", "link": "/home/decor/clocks" },
-              { "name": "Lamps", "link": "/home/decor/lamps" }
-            ]
-          },
-          {
-            "title": "Furniture",
-            "items": [
-              { "name": "Sofas", "link": "/home/furniture/sofas" },
-              { "name": "Tables", "link": "/home/furniture/tables" },
-              { "name": "Chairs", "link": "/home/furniture/chairs" }
-            ]
-          }
-        ]
+    {
+        "mens_products":[
+    {
+      "id": 1,
+      "title": "men pack of 2 regular fit sports t-shirt",
+      "price": 500,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "t-shirt",
+      "original_price":345,
+      "offer_percent":20,
+      "brand_name":"TSHIRT-TRENDS",
+      "brand_image":"https://blog.g3fashion.com/wp-content/uploads/2022/01/1.jpg",
+      "size":["M","S","L","XL","XXL","XXL"],
+      "image": "https://m.media-amazon.com/images/I/81wy4PsxSCL._AC_UY1100_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
       }
-    ]
-  }
-  
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price":289,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "original_price":1200,
+      "offer_percent":25,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"TSHIRT-TRENDS",
+       "brand_image":"https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_750,h_400/https://assets.designhill.com/design-blog/wp-content/uploads/2018/07/Branding.jpg",
+      "category": "t-shirt",
+      "image": "https://images.bestsellerclothing.in/data/selected/09-Aug-2023/250135204_1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Round neck solid t-shirt",
+      "price":1200,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "original_price":220,
+      "offer_percent":30,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"TSHIRT-TRENDS",
+       "brand_image":"https://veirdo.in/cdn/shop/files/18_5.jpg?v=1723283778",
+      "category": "t-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231214/xIDk/657ad736afa4cf41f5cff63e/-473Wx593H-464531848-navy-MODEL.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 900,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "original_price":220,
+      "offer_percent":15,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"TSHIRT-TRENDS",
+      "brand_image":"https://printnew.in/wp-content/uploads/2021/09/Mens-T-shirt-online-india.webp",
+      "category": "t-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230703/zEjF/64a2f7b8eebac147fc48acfc/-473Wx593H-466325670-purple-MODEL.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "men active wear long sleeves t-shirt",
+      "price": 1900,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "original_price":220,
+      "offer_percent":59,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"TSHIRT-TRENDSS",
+      "brand_image":"https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/25650886/2023/12/6/a7d46660-80bb-412e-9791-0a4fd33ca3471701863301392-Being-Human-Men-Tshirts-8481701863301066-1.jpg",
+      "category": "t-shirt",
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2020/8/XG/EV/BC/108865717/product-jpeg-500x500.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "men  long sleeve casual shirt",
+      "price": 168,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"SHIRTS",
+      "brand_image":"https://www.beyoung.in/blog/wp-content/uploads/2024/11/Top-10-Popular-Shirt-Brands-for-Men-in-India-3.jpg",
+      "category": "shirts",
+      "image": "https://thefoomer.in/cdn/shop/products/jpeg-optimizer_PATP5270.jpg?v=1680164001",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "men  long sleeve casual shirt",
+      "price": 299,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+       "brand_name":"SHIRTS",
+      "brand_image":"https://blog.g3fashion.com/wp-content/uploads/2022/01/Untitled-1-1.jpg",
+      "category": "shirts",
+      "image": "https://shop.mango.com/assets/rcs/pics/static/T7/fotos/S/77024441_28.jpg?imwidth=2048&imdensity=1&ts=1720179294095",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "men half sleeve floral shirt",
+      "price": 199,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+      "category": "shirts",
+       "brand_name":"SHIRTS",
+      "brand_image":"https://microadia.net/wp-content/uploads/2022/08/White-and-Black-Modern-Reminder-Phone-Notification-Twitter-Post-2.png",
+      "image": "https://www.tistabene.com/cdn/shop/files/MSH-1915A.jpg?v=1738409552",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "men fancy designer shirt ",
+      "price": 564,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+       "brand_name":"SHIRTS",
+      "brand_image":"https://cdn2.desidime.com/cdn-cgi/image/fit=crop,f=auto,onerror=redirect,w=1200,h=1200,q=90/topics/photos/1400305/original/Top-10-Branded-Shirts-For-Men--1200x1200.jpg",
+      "category": "shirts",
+      "image": "https://m.media-amazon.com/images/I/813UIVxLD3L._AC_UY1100_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "Multicoloured Striped Shirt",
+      "price": 154,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+       "brand_name":"SHIRTS",
+      "brand_image":"https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2024-05/Best-Formal-Shirt-Brands.jpg",
+      "category": "shirts",
+      "image": "https://www.primeporter.com/cdn/shop/products/multicoloured-stripe-shirt-for-men-plus-1_1200x1200.jpg?v=1643966356",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": "COMBRAIDED Slim Fit Men Black Trousers",
+      "price": 189,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"TROUSERS_TRENDS",
+      "brand_image":"https://blog.g3fashion.com/wp-content/uploads/2022/01/BeFunky-collage-2022-01-06T150150.477.jpg",
+      "category": "trousers",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/trouser/e/s/z/30-tu1-vebnor-original-imagmy6hhhz62qzn.jpeg?q=90&crop=false",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "Allen Solly Men Grey Slim Fit Solid Casual Trousers",
+      "price": 144,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"TROUSERS_TRENDS",
+      "brand_image":"https://blog.g3fashion.com/wp-content/uploads/2022/01/Untitled-1.jpg",
+      "category": "trousers",
+      "image": "https://www.urbanofashion.com/cdn/shop/files/epnchino-19-grey-1_e605b8a0-851c-4eeb-929c-be727c71fd85.jpg?v=1706686357",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "men purist blue solids chinos casual trouser",
+      "price": 599,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"TROUSERS_TRENDS",
+      "brand_image":"https://www.tradeindia.com/blog/content/images/2023/04/2181.-Cotton-Pant-Brands.jpg",
+      "category": "trousers",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230819/FbT5/64dfc988afa4cf41f5600bcf/-473Wx593H-466475470-grey-MODEL.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "Park Avenue Men Blue Stripe Neo Fit Polyester Blend Trouser",
+      "price": 999,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"TROUSERS_TRENDS",
+      "brand_image":"https://i.pinimg.com/736x/f6/ec/df/f6ecdfd2759c8160abc23984bac37712.jpg",
+      "category": "trousers",
+      "image": "https://myraymond.com/cdn/shop/files/PMTY07560-B5-1.jpg?v=1730885211",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": "The Pant Project Stretchable Cargo Pants For Men, Grey Color (Cotton, Free Alterations) Smart Casual Trouser | Men's Cargo",
+      "price": 569,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"TROUSERS_TRENDS",
+      "brand_image":"https://img3.exportersindia.com/product_images/bc-full/dir_64/1919869/design-no-01_p_1349495_195470.jpg",
+      "category": "trousers",
+      "image": "https://pantproject.com/cdn/shop/products/mens-cargo-trousers_cffd3c61-8b45-4aa0-befc-a213693ee983.jpg?v=1666978738",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "Server Men's Fashion Sandals 5075 Shoes Loafer jutti Style Synthetic Leather Shoes For Men Casual Fashion Shoes Tan brown shoes for men And Boys ​Size ...",
+      "price": 120,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+       "brand_name":"FOOTWEAR_TRENDS",
+      "brand_image":"https://aartisto.com/wp-content/uploads/2023/04/Top-10-shoe-brands-in-India-for-men-women-2023-1200x675.webp",
+      "category": "foot-wear",
+      "image": "https://m.media-amazon.com/images/I/71l16L4xblL._AC_UY1000_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "FreeMo Casual Shoe |Casual shoes for Men shoes |Stylish Men's Footwear |Slip-on Mule Sneakers |Urban Street Style Sneakers |Stay on Trend with New ...",
+      "price": 189,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"FOOTWEAR_TRENDS",
+      "brand_image":"https://5.imimg.com/data5/SELLER/Default/2020/11/MW/FO/PE/68937433/branded-footwear-500x500.jpg",
+      "category": "foot-wear",
+      "image": "https://images.meesho.com/images/products/430613916/ey7sn_512.webp",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "The Kotan Tan Men Occasion Slip-on Ruosh ",
+      "price": 985,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+       "brand_name":"FOOTWEAR_TRENDS",
+      "brand_image":"https://thenobledandy.com/media/blog/top-50-ready-to-wear-mens-classic-shoe-brands/berluti-shoes-top-50-brands.jpg",
+      "category": "foot-wear",
+      "image": "https://cdn.anscommerce.com/image/tr:e-sharpen-01,h-822,w-940,cm-pad_resize/catalog/ruosh/product/8772037/1311064170_11.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": "Wozhidaose Mens Shoes Mens Casual Shoes Flat Shoes India | Ubuy",
+      "price": 975,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"FOOTWEAR_TRENDS",
+      "brand_image":"https://static.wixstatic.com/media/61405d_a81f4928194945da84fad7f370e6a887~mv2.png/v1/fill/w_563,h_998,al_c,q_90/61405d_a81f4928194945da84fad7f370e6a887~mv2.png",
+      "category": "foot-wear",
+      "image": "https://images-cdn.ubuy.co.in/66560187a825d31ad339baeb-wozhidaose-mens-shoes-mens-casual-shoes.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": "Paaduks Zoo Dark Brown Sandals For Men | Sepia Stories",
+      "price": 129,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+       "brand_name":"FOOTWEAR_TRENDS",
+      "brand_image":"https://thenobledandy.com/media/blog/top-50-ready-to-wear-mens-classic-shoe-brands/alden-shoes-top-50-brands.jpg",
+      "category": "foot-wear",
+      "image": "https://sepiastories.in/wp-content/uploads/2023/02/Paaduks-Zoo-Dark-Brown-Sandals-For-Men-2New.webp",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },  
+    {
+      "id": 21,
+      "title": "Buy TACVASEN Men's Jackets-Military Cotton Bomber Cargo Standard Length Casual Coats Outwear (Black L) at Amazon.in",
+      "price": 98,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"JACKET_TRENDS",
+      "brand_image":"https://celebmix.com/wp-content/uploads/2021/01/5-Bomber-Jacket.jpg",
+      "category": "jackets",
+      "image": "https://m.media-amazon.com/images/I/81KWzGRf--L._AC_UY1100_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 22,
+      "title": "Signature Leather Motor Jacket",
+      "price": 176,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+       "brand_name":"JACKET_TRENDS",
+      "brand_image":"https://hips.hearstapps.com/hmg-prod/images/best-jacket-brands-66abe90156fb4.jpg?crop=0.500xw:1.00xh;0.383xw,0&resize=640:*",
+      "category": "jackets",
+      "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/19547294/2022/9/22/3735763b-e8e5-4e23-9051-4accdfe52ae41663838225636-WROGN-Men-Jackets-681663838225051-1.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 23,
+      "title": "Leather-effect jacket with pockets - Men | MANGO India",
+      "price": 1500,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"JACKET_TRENDS",
+      "brand_image":"https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2024-11/Top%2010%20Leather%20Jacket%20Brands%20for%20Men%20in%20India%20Style%20Yourself%20This%20Winters.jpg",
+      "category": "jackets",
+      "image": "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87000589_99.jpg?imwidth=2048&imdensity=1&ts=1728486259503",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 24,
+      "title": "Zip-Front Jacket with Insert Pockets",
+      "price": 987,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"JACKET_TRENDS",
+      "brand_image":"https://5.imimg.com/data5/ECOM/Default/2023/9/340251271/JL/HC/FY/193235829/1693641121613-sku-4311-0-500x500.jpg",
+      "category": "jackets",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240502/gFYn/66336b1216fd2c6e6ae2057c/-473Wx593H-466453554-black-MODEL.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 25,
+      "title": "Men Jacket Olive Quilted",
+      "price": 547,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"JACKET_TRENDS",
+      "brand_image":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1722525191-screenshot-2024-08-01-at-11-13-01-am-66aba600dfb82.png?crop=1.00xw:0.984xh;0,0.0142xh&resize=980:*",
+      "category": "jackets",
+      "image": "https://cdn.woollen-wear.in/cache/data/jackets/lure2324/men2324/c7060/c7060-olive-front-1400x1782.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 26,
+      "title": "Men's Winter Style Guide | How To Dress For Cold Weather – The Dark Knot",
+      "price": 457,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+       "brand_name":"WINTER_TRENDS",
+      "brand_image":"https://m.media-amazon.com/images/I/71nU+1UH1mL._AC_UY350_.jpg",
+      "category": "winter-wears",
+      "image": "https://cdn.shopify.com/s/files/1/0347/3225/files/MensWinterStyle8_600x600.jpg?v=1610181149",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 27,
+      "title": "Men Winter Wear Regular Fit Single Breasted Coat, M",
+      "price": 600,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WINTER_TRENDS",
+      "brand_image":"https://m.media-amazon.com/images/S/aplus-media-library-service-media/de077e69-d0ef-4a70-a6df-2b53def6ede9.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+
+      "category": "winter-wears",
+      "image": "https://chkokko.com/cdn/shop/files/044A8139-2.jpg?v=1726312156",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 28,
+      "title": "Buy Black Winter Jacket For Men with Double Side Pockets Online – TRIPR",
+      "price": 986,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WINTER_TRENDS",
+      "brand_image":"https://m.media-amazon.com/images/I/61zkFbeXs7L._SS1000_.jpg",
+
+      "category": "winter-wears",
+      "image": "https://triprindia.com/cdn/shop/files/TBLHDJACKETFUL-K461_800x.jpg?v=1724742326",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 29,
+      "title": "2024 Winter Clothes for Men: A Complete Guide to Trendy Outfits and Ac",
+      "price": 1300,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WINTER_TRENDS",
+      "brand_image":"https://i.ytimg.com/vi/ncz-HBWfEuA/maxresdefault.jpg",
+
+      "category": "winter-wears",
+      "image": "https://cdn.shopify.com/s/files/1/0012/7339/7332/files/12_Men_s_Cardigan_Sweaters_That_Are_Light_Enough_To_Wear_This_Summer_2048x2048.jpg?v=1673221437",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 30,
+      "title": "Men Winter Wear Images - Free Download on Freepik",
+      "price": 876,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+       "brand_name":"WINTER_TRENDS",
+      "brand_image":"https://cdn.shopify.com/s/files/1/0867/4417/0787/files/word-image-8930-4-533x800_480x480.jpg?v=1721207594",
+
+      "category": "winter-wears",
+      "image": "https://img.freepik.com/free-photo/medium-shot-smiley-man-wearing-warm-clothes_23-2149248883.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 31,
+      "title": "Shop Now for Mens & Bollywood favourite Jewellery",
+      "price": 321,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"ACCESSORIES_TRENDS",
+      "brand_image":"https://images-static.nykaa.com/uploads/7f832208-b8fc-4d85-85d4-029776b758c3.jpg?tr=w-600,cm-pad_resize",
+      "category": "accessories",
+      "image": "https://cdn.staticans.com/image/tr:e-sharpen-01,h-400,w-300,cm-pad_resize/catalog/toniq/product/SS24OMJB31/SS24OMJB31_1.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 32,
+      "title": "Accessories For Men | Men's Accessories Online | Winni",
+      "price": 299,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"ACCESSORIES_TRENDS",
+      "brand_image":"https://www.shoptrack.my/wp-content/uploads/2024/05/Best-Mens-Fashion-Accessories-768x403.webp",
+      "category": "accessories",
+      "image": "https://assets.winni.in/product/primary/2023/4/84207.jpeg?dpr=2&w=220",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 33,
+      "title": "Accessories for Men Online - Buy Men's Accessories Online | Louis Philippe",
+      "price": 149,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"ACCESSORIES_TRENDS",
+      "brand_image":"https://logan.nnnow.com/content/dam/nnnow-project/03-oct-2023/04OCT23-ALP-TB-ACCESSORIES-APP.jpg",
+      "category": "accessories",
+      "image": "https://imagescdn.louisphilippe.com/img/app/product/8/814704-9724875.jpg?auto=format&w=390",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 34,
+      "title": "Top Selling Products- Men | Salty – Salty Accessories",
+      "price": 198,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"ACCESSORIES_TRENDS",
+      "brand_image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/29011402/2024/4/18/f7f2137a-9b0a-4f4b-a814-a3d343ba246b1713428341370ArmaniExchangeMenDialStrapsAnalogueWatchAX7159SET1.jpg",
+      "category": "accessories",
+      "image": "https://salty.co.in/cdn/shop/files/MidnightCharismaChain_2.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 35,
+      "title": "brown leather Belt",
+      "price": 765,
+      "description": "Buy SalLady Man Accessories Pants Shorts Casual Wide Breathable Adjustable Men Belt Faux Leather Punk Style All-Match Single Prong Belt Jeans Belt Black at Amazon.in",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"ACCESSORIES_TRENDS",
+      "brand_image":"https://www.globalbrandsmagazine.com/wp-content/uploads/2023/01/2244451-mens-collection-christmas22-phase1-2000x2000-1.jpg",
+      "category": "accessories",
+      "image": "https://m.media-amazon.com/images/I/61aeI679qKL.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 36,
+      "title": "Men Embellished Regular Fit Kurta",
+      "price": 986,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KURTA_TRENDS",
+      "brand_image":"https://mendeserve.com/cdn/shop/articles/Kurta_Designs_for_Men.png?v=1726657366&width=1100",
+      "category": "mens-kurtas",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240715/fvyW/66950d656f60443f313ba141/-473Wx593H-700158370-blue-MODEL.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 37,
+      "title": "Men Kurtas - Shop Designer Kurta ( कुर्ता डिजाइन ) Online for Men in India | Myntra",
+      "price": 762,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KURTA_TRENDS",
+      "brand_image":"https://walkin.fashion.blog/wp-content/uploads/2019/12/men-kurta-brands.jpg",
+      "category": "mens-kurtas",
+      "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/29102908/2024/4/23/c4ea899e-e1ad-470d-bcd6-4fbd902659f31713857185268JompersMenThreadWorkKurta1.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 38,
+      "title": "Peach Color Mens Traditional Kurta With Pajama Indian Kurta for Men",
+      "price": 130,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KURTA_TRENDS",
+      "brand_image":"https://i.ytimg.com/vi/-u2S8mH2Gpk/hqdefault.jpg",
+      "category": "mens-kurtas",
+      "image": "https://cdn.klothtrend.com/imgbook/product/wc/20230516/1684244589683017440.webp",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 39,
+      "title": "Buy Cotton Digital Print Grey Mens Kurta (NMK-6673) Online",
+      "price": 176,
+      "description": "Buy Cotton Digital Print Grey Mens Kurta (NMK-6673) Online",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KURTA_TRENDS",
+      "brand_image":"https://www.textileexport.in/media/mceu_65206613861690176827167.jpg",
+      "category": "mens-kurtas",
+      "image": "https://www.nihalfashions.com/media/catalog/product/cache/caa15edf98145413286703527de7b8dd/c/o/cotton-digital-print-grey-mens-kurta-nmk-6673.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 40,
+      "title": "pink kurta",
+      "price": 145,
+      "description": "Buy CRYSTAL REVENUE Men's Cotton Ethnic Motifs Mirror Work Kurta Set For Festival And Wedding Wear (Pink) - Small Online at Best Prices in India - JioMart.",
+      "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KURTA_TRENDS",
+      "brand_image":"https://i.pinimg.com/736x/c1/e6/38/c1e6384fc0dc7fe475e0674e6c774b65.jpg",
+      "category": "mens-kurtas",
+      "image": "https://www.jiomart.com/images/product/original/rv2x3vyw7q/crystal-revenue-men-s-cotton-ethnic-motifs-mirror-work-kurta-set-for-festival-and-wedding-wear-pink-small-product-images-rv2x3vyw7q-0-202308101700.jpg?im=Resize=(500,630)",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    }
+
+  ],
+  "womens_products":[
+    {
+        "id": 1,
+        "title": "Party Wear Georgette Sequence Work Saree For Women's - Red",
+        "price": 550,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":700,
+        "offer_percent":30,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"SAREE-TRENDS",
+        "brand_image":"https://sudathi.com/cdn/shop/articles/Blog_2_-compressed_7f25c283-8946-4d11-b30a-4427b646faba.jpg?v=1719557911",
+
+        "category": "sarees",
+        "image": "https://royalanarkali.com/wp-content/uploads/2020/11/party-wear-georgette-sequence-work-saree-for-womens-red.jpeg",
+        "rating": {
+          "rate": 3.75,
+          "count": 120
+        }
+      },
+      {"id": 2,
+        "title": "Wedding Clothes Indian Women Silk Saree -SkyBlue",
+        "price": 1900,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"SAREE-TRENDS",
+        "brand_image":"https://www.silailor.in/wp-content/uploads/2024/12/Saree-Brands-In-India.jpg",
+        "category": "sarees",
+        "image": "https://www.mystore.in/s/62ea2c599d1398fa16dbae0a/64e83b335e0f0345eec519a0/il_1588xn-4697466827_929z.jpg",
+        "rating": {
+          "rate": 3.5,
+          "count": 128
+        }
+      },
+
+        {"id": 3,
+        "title": "7 Beauty color soft lichi silk saree",
+        "price":2500,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":52,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"SAREE-TRENDS",
+         "brand_image":"https://media.licdn.com/dms/image/v2/D4D12AQGJ6jgjn3H1Hw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721176824950?e=2147483647&v=beta&t=L32lHdX6QO2IwX2lV13DS9JH2ochQ6luQxmux0kfzUA",
+        "category": "sarees",
+        "image": "https://fealdeal.com/cdn/shop/files/12340_ca86ea76-1a63-4852-8db0-03dc06d9db84.jpg?v=1727862893",
+        "rating": {
+          "rate": 4.3,
+          "count": 128
+        }},
+        {"id": 4,
+        "title": "Mitera Woven Design Zari Silk Cotton Paithani Saree",
+        "price": 2595,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":30,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"SAREE-TRENDS",
+        "brand_image":"https://www.grabon.in/indulge/wp-content/uploads/2022/04/Best-Saree-Brands.jpg",
+
+        "category": "sarees",
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/21403946/2023/1/19/5fed6a9b-efbf-4fda-b7d2-61fc146f09a51674131276033-Mitera-Woven-Design-Zari-Silk-Cotton-Paithani-Saree-58516741-1.jpg",
+        "rating": {
+          "rate": 4.75,
+          "count": 108
+        }},
+        {"id": 5,
+        "title": "Party Wear Purple Color Georgette Sequence Work Saree For Women's",
+        "price":1600,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":15,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"SAREE-TRENDS",
+        "brand_image":"https://www.pratibhasarees.com/cdn/shop/articles/Top_and_Best_Saree_Brands_in_India.jpg?v=1724613732&width=2048",
+
+        "category": "sarees",
+        "image": "https://wholesuits.com/wp-content/uploads/2021/01/party-wear-purple-color-georgette-sequence-work-saree-for-womens.jpeg",
+        "rating": {
+          "rate": 4.9,
+          "count": 19
+        }},
+        {"id": 6,
+        "title": "Sophisticated Women's Kota Silk Saree: Soft, Printed, an",
+        "price":2500,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":30,
+        "size":["M","S","L","XL","XXL","XXL"],
+      
+
+        "category": "sarees",
+        "image": "https://clothsvilla.com/cdn/shop/files/SophisticatedWomen_sKotaSilkSareeSoft_Printed_andEnrichedwithWeavingPattuBorder_4_1024x1024@2x.jpg?v=1693810080",
+        "rating": {
+          "rate": 2.7,
+          "count": 148
+        }},
+        {"id": 7,
+        "title": "Buy Yellow Printed Silk Blend Saree With Unstitched Blouse Piece Online at $47.00 USD | ShopLibas",
+        "price": 1500,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":15,
+        "size":["M","S","L","XL","XXL","XXL"],
+     
+
+        "category": "sarees",
+        "image": "https://www.shoplibas.com/cdn/shop/files/00_0573d985-0e08-4745-b998-82a7191847c7.jpg?v=1739275096",
+        "rating": {
+          "rate": 2.5,
+          "count": 128
+        }},
+        {"id": 8,
+        "title": "Libas Women's Printed Cotton Anarkali Kurta With Palazzo & Dupatta",
+        "price": 299,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"WOMEN_KURTA",
+        "brand_image":"https://images.freekaamaal.com/post_images/1666246547.webp",
+
+        "category": "kurtas",
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/16857646/2024/4/30/02ebe685-6062-440f-affc-02142dea420d1714451865170-Libas-Women-Pink-Floral-Printed-Panelled-Pure-Cotton-Kurta-w-2.jpg",
+        "rating": {
+          "rate": 3.1,
+          "count": 88
+        }},
+        {"id": 9,
+        "title": "Festive Ethnic Wear | Kurta Set | Kurtis for Women – Westside",
+        "price": 249,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"WOMEN_KURTA",
+        "brand_image":"https://www.suratifabric.com/blog/wp-content/uploads/2021/09/15-Best-Kurtis-Brands-to-Try-for-a-Perfect-Look.jpg",
+        "category": "kurtas",
+        "image": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/kurtis_for_women_0e3d01d4-8356-441f-9f79-37a8eb80aa54.jpg?v=1671460477",
+        "rating": {
+          "rate": 3.1,
+          "count": 58
+        }},
+        {"id": 10,
+        "title": "Ecru Printed Kurta & Straight Pants Set",
+        "price": 567,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"WOMEN_KURTA",
+        "brand_image":"https://tipsandbeauty.com/wp-content/uploads/2019/05/Best-Kurta-and-Kurti-Brands-in-India-1024x697.jpg",
+        "category": "kurtas",
+        "image": "https://wforwoman.com/cdn/shop/files/Anushka.jpg?v=1731136938",
+        "rating": {
+          "rate": 3,
+          "count": 71
+        }}, 
+        {"id": 11,
+        "title": "women full sleeves chikankari kurti",
+        "price": 876,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"WOMEN_KURTA",
+        "brand_image":"https://i.pinimg.com/736x/1f/a5/0d/1fa50d29d9cd17e6f9116698978a5c80.jpg",
+        "category": "kurtas",
+        "image": "https://varanga.in/cdn/shop/files/JS7_VSET21273_1_0569f1d1-5a3a-42fa-941b-5233e2f58b22.jpg?v=1726360150",
+        "rating": {
+          "rate": 3.7,
+          "count": 79
+        }},
+        {"id": 12,
+        "title": "women blue kurti",
+        "price": 167,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"WOMEN_KURTA",
+        "brand_image":"https://cdn.shopify.com/s/files/1/0600/0672/7879/files/1500-x-1500.webp?v=1725621072",
+        "category": "kurtas",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20240103/ntIQ/659564afddf7791519ff0554/-473Wx593H-466942593-turquoise-MODEL.jpg",
+        "rating": {
+          "rate": 4,
+          "count": 89
+        }},
+        {"id": 13,
+        "title": "women sequin work round neck straight kurti",
+        "price": 189,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        
+        "category": "kurtas",
+        "image": "https://gunjfashion.com/cdn/shop/files/wonderful-yellow-women-floral-print-a-line-kurta-set_3.jpg?v=1711957255",
+        "rating": {
+          "rate": 4.1,
+          "count": 62
+        }},
+        {"id": 14,
+        "title": "Karatcart Gold Plated Pearl and Kundan Choker Bridal Jewellery Set for Women",
+        "price": 1999,
+        "description": "Karatcart Gold Plated Pearl and Kundan Choker Bridal Jewellery Set for Women",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"JWELLERY_TRENDS",
+        "brand_image":"https://hips.hearstapps.com/hmg-prod/images/jewellery-brands-66965a99c3cb5.jpg?crop=1.00xw:0.802xh;0,0.0757xh&resize=1120:*",
+
+        "category": "jewellery",
+        "image": "https://karatcart.com/cdn/shop/files/partnerimages_2F9ec17df5_11017324_1.jpg?v=1725100432",
+        "rating": {
+          "rate": 4.1,
+          "count": 62
+        }},
+        {"id": 15,
+        "title": "bridal jwellery",
+        "price": 999.95,
+        "description": "Traditional Gold Plateded High Quality Bridal Dulhan Jewellery Set For Women And Bride at ₹ 2200/set | दुल्हन के आभूषण का सेट in New Delhi | ID: 23774899773",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"JWELLERY_TRENDS",
+        "brand_image":"https://johori.com/cdn/shop/articles/Johori_18.jpg?v=1701420199",
+        "category": "jewellery",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2021/8/WD/SB/AZ/121016877/20210803132605-1--500x500.jpg",
+        "rating": {
+          "rate": 3.7,
+          "count": 29
+        }},
+        {"id": 16,
+        "title": "Kundan chokar necklace jewellery set for girls/women",
+        "price": 635,
+        "description": "Kundan chokar necklace jewellery set for girls/women",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"JWELLERY_TRENDS",
+        "brand_image":"https://cdn.shopify.com/s/files/1/0566/1884/4329/files/d2_1024x1024.jpg?v=1698385460",
+        "category": "jewellery",
+        "image": "https://fashiondeal.in/cdn/shop/files/kundan-chokar-necklace-jewellery-set-for-girls-women-9846.jpg?v=1717989110",
+        "rating": {
+          "rate": 4,
+          "count": 39
+        }},
+        {"id": 17,
+        "title": "shop by Fida Ethnic Oxidised Silver Elegant Jewellery Set for Women",
+        "price": 876,
+        "description": "shop by Fida Ethnic Oxidised Silver Elegant Jewellery Set for Women",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"JWELLERY_TRENDS",
+          "brand_image":"https://media.assettype.com/theceo%2F2024-04%2Fad58fe5c-6325-463a-b887-2864d7150052%2Ftop.jpg",
+        "category": "jewellery",
+        "image": "https://cdn.staticans.com/image/tr:e-sharpen-01,h-1440,w-1080,cm-pad_resize/catalog/toniq/product/OAW22FIJJS167-A/OAW22FIJJS167-A_1.jpg",
+        "rating": {
+          "rate": 4.1,
+          "count": 62
+        }},
+        {"id": 18,
+        "title": "LAMANSH Handmade Wedding Flower Jewellery Set For Women & Girls / Haldi Set",
+        "price": 925,
+        "description": "LAMANSH Handmade Wedding Flower Jewellery Set For Women & Girls / Haldi Set",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"JWELLERY_TRENDS",
+        "brand_image":"https://businessconnectindia.in/wp-content/uploads/2022/12/Top-10-Jewelry-brands-in-India-to-make-this-wedding-season-more-fabulous.jpg",
+        "category": "jewellery",
+        "image": "https://lamansh.in/cdn/shop/products/lamansh-flower-jewellery-1-necklace-2-earrings-1-maangtika-1-nath-2-bracelet-attached-to-ring-set-pink-yellow-lamansh-handmade-wedding-flower-jewellery-set-for-women-girls-haldi-set-2_35507061-9ea5-4b49-970e-80b1f84bd922.jpg?v=1653302503",
+        "rating": {
+          "rate": 4,
+          "count": 62
+        }},
+        {"id": 19,
+        "title": "wedding jewellery set for women&",
+        "price": 874,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        
+        "category": "jewellery",
+        "image": "https://images.meesho.com/images/products/179596671/ym2rr_512.webp",
+        "rating": {
+          "rate": 3.5,
+          "count": 62
+        }},
+        {"id": 20,
+        "title": "pearl necklace",
+        "price": 345,
+        "description": "YouBella Stylish Latest Traditional Jewellery Gold Plated Jewellery Set for Women (Golden)(YBNK_5426A)",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        
+        "category": "jewellery",
+        "image": "https://cdn.zivame.com/ik-seo/media/zcmsimages/configimages/YOC214-Gold/1_large/youbella-stylish-latest-traditional-jewellery-gold-plated-jewellery-set-for-women-golden-ybnk-5426a.jpg?t=1624870971",
+        "rating": {
+          "rate": 3.9,
+          "count": 62
+        }},
+        {"id": 21,
+        "title": "women's top",
+        "price": 987,
+        "description": "women tops|women tops western latest|women top|women top for jeans|women tops cotton|women top under 200|women tops western latest long|women tops ...",
+        "original_price":220,
+        "offer_percent":50,
+        "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"WOMEN_TOPS",
+        "brand_image":"https://www.tradeindia.com/blog/content/images/2022/09/11-Best-Promising-Women-s-Top-Brands-in-India.jpg",
+
+        "category": "tops",
+        "image": "https://images.meesho.com/images/products/374641448/dneuo_512.webp",
+        "rating": {
+          "rate": 4.1,
+          "count": 62
+        }},
+        {"id": 22,
+        "title": "White Top",
+        "price": 499,
+        "description": "Oh Rare Women White Fery London Floral Shirred Peplum Top (L) At Nykaa Fashion - Your Online Shopping Store",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_TOPS",
+        "brand_image":"https://5.imimg.com/data5/SELLER/Default/2021/12/EC/OB/TP/135501286/whatsapp-image-2021-12-22-at-3-08-11-pm-500x500.jpeg",
+        "category": "tops",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20240728/WnkR/66a5fd686f60443f31d1f372/-473Wx593H-465138366-white-MODEL.jpg",
+        "rating": {
+          "rate": 3.3,
+          "count": 39
+        }},
+        {"id": 23,
+        "title": "Net Tops For Women - Buy Net Tops For Women online in India",
+        "price": 299,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_TOPS",
+        "brand_image":"https://images.freekaamaal.com/post_images/1689767603.webp",
+        "category": "tops",
+        "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/31358194/2025/1/2/9617132b-052f-495f-a9bb-8bc0f01179dc1735808993821-glitchez-Women-Tops-4651735808993130-1.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 78
+        }},
+        {"id": 24,
+        "title": "Buy Women Pink Plain Top Online in India - Monte Carlo 38/L",
+        "price": 399,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+     "brand_name":"WOMEN_TOPS",
+        "brand_image":"https://img.paisawapas.com/ovz3vew9pw/2022/02/13172431/Womens-Clothing-Brands.jpg",
+        "category": "tops",
+        "image": "https://www.montecarlo.in/cdn/shop/products/222055781-2-36_1-8HP-012347-YB1.jpg?v=1696613671",
+        "rating": {
+          "rate": 3.9,
+          "count": 69
+        }},
+        {"id": 25,
+        "title": "Slub Cotton Brown Frill Blouse – LUSH LAYERS",
+        "price": 199,
+        "description": "Slub Cotton Brown Frill Blouse – LUSH LAYERS",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+        "brand_name":"WOMEN_TOPS",
+        "brand_image":"https://www.silailor.in/wp-content/uploads/2024/12/Clothing-Brand-Names.jpg",
+        "category": "tops",
+        "image": "https://www.lushlayers.in/cdn/shop/files/IMG-20230503-WA0025_1_1800x1800.jpg?v=1691706611",
+        "rating": {
+          "rate": 3.3,
+          "count": 45
+        }},
+        {"id": 26,
+        "title": "women's blue top",
+        "price": 643,
+        "description": "women tops-women tops western latest Picture Color / L",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      
+        "category": "tops",
+        "image": "https://sheetalonlinefashion.in/cdn/shop/files/uqh0b_512.webp?v=1711609091",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 27,
+        "title": "pink dress",
+        "price": 265,
+        "description": "Ethnic Wear - Shop Ethnic Wear for Women Online in India",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_ETHNIC_TRENDS",
+      "brand_image":"https://www.bullionknot.com/cdn/shop/articles/bullion_top_brands.jpg?v=1716629261",
+
+        "category": "ethenic-dress",
+        "image": "https://www.lavanyathelabel.com/cdn/shop/files/01_LBL101KS352_6_1200x.jpg?v=1735980970",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 28,
+        "title": "White dress",
+        "price": 297,
+        "description": "Buy White Mirror Ethnic Gown for Women | Best Ethnic Dresses for Ladies XL",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_ETHNIC_TRENDS",
+      "brand_image":"https://www.suratifabric.com/blog/wp-content/uploads/2021/10/Top-12-Best-Women-Ethnic-Wear-Brands-to-Try-in-India.jpg",
+        "category": "ethenic-dress",
+        "image": "https://kaajh.com/cdn/shop/files/White_Mirror_Embellishment_Ethnic_Gown_set_of_1_-_Kaajh_-_tag4_-1730699.jpg?v=1721836201",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 29,
+        "title": "green ethnic dress",
+        "price": 2987,
+        "description": "Buy SANCIA Women Georgette Ethnic Top Palazzo Ethnic Jacket Set For Women & Girls | Ethnic Wear For Women | Indian Dress For Women | Kurta Set With Dupatta | Floral Embroidered",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_ETHNIC_TRENDS",
+      "brand_image":"https://images.freekaamaal.com/post_images/1689767603.webp",
+        "category": "ethenic-dress",
+        "image": "https://www.jiomart.com/images/product/original/rvjwyv6gb4/sancia-women-georgette-ethnic-top-palazzo-ethnic-jacket-set-for-women-girls-ethnic-wear-for-women-indian-dress-for-women-kurta-set-with-dupatta-floral-embroidered-kurta-teal-m-product-images-rvjwyv6gb4-0-202311071451.jpg?im=Resize=(330,410)",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 30,
+        "title": "anayna Red Floral Ethnic A-Line Cotton Midi Ethnic Dress (L) by Myntra",
+        "price": 299,
+        "description": "anayna Red Floral Ethnic A-Line Cotton Midi Ethnic Dress (L) by Myntra",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_ETHNIC_TRENDS",
+      "brand_image":"https://2.bp.blogspot.com/-6D6DPyRTvfI/W-FErbIr22I/AAAAAAAAMII/mKDoQRqCSGkOe8LIYUik2JCwHMtJ1waQgCLcBGAs/s1600/Indian%2BEthnic%2BWear%2BBrand%2BNames%2BFor%2BWomen%2B%252838%2529.jpg",
+        "category": "ethenic-dress",
+        "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/21334304/2023/10/4/10d96212-4d28-447f-8ab7-cd15b91e503f1696406650695-anayna-Red-Floral-Ethnic-A-Line-Cotton-Midi-Ethnic-Dress-764-6.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 31,
+        "title": "women footwear",
+        "price": 299.95,
+        "description": "AZ Footwear Women Heels",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_ETHNIC_TRENDS",
+      "brand_image":"https://www.dealsshutter.com/blog/wp-content/uploads/2017/09/List-Of-Indian-Ethnic-Wear-Brands-Designers-copy.png",
+        "category": "footwear",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/sandal/t/d/b/-original-imaggcr4gyktgacq.jpeg?q=90&crop=false",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 32,
+        "title": "The Crossem Black Women's Dress Block Heel Sandals Tresmode 40",
+        "price": 299.95,
+        "description": "The Crossem Black Women's Dress Block Heel Sandals Tresmode 40",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_FOOTWEAR_TRENDS",
+      "brand_image":"https://www.darveys.com/blog/wp-content/uploads/2021/09/02.jpg",
+
+        "category": "footwear",
+        "image": "https://www.tresmode.com/cdn/shop/files/the-crossem-black-women-s-dress-block-heel-sandals-tresmode-tresmode-1.jpg?v=1737018251",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 33,
+        "title": "Diana Wedges | Multicolour Designer Women's Indian Footwear – aroundalways",
+        "price": 299.95,
+        "description": "Diana Wedges | Multicolour Designer Women's Indian Footwear – aroundalways",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_FOOTWEAR_TRENDS",
+      "brand_image":"https://www.darveys.com/blog/wp-content/uploads/2021/09/01.jpg",
+        "category": "footwear",
+        "image": "https://www.aroundalways.com/cdn/shop/files/DianaWedges1.jpg?v=1693229119",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 34,
+        "title": "ZaHu Women flats sandals girls stylish fancy flat fashion sandals ladies footwear sandals flat sandal for women and girls",
+        "price": 299.95,
+        "description": "ZaHu Women flats sandals girls stylish fancy flat fashion sandals ladies footwear sandals flat sandal for women and girls",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_FOOTWEAR_TRENDS",
+      "brand_image":"https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/inline-images/1s.jpg",
+        "category": "footwear",
+        "image": "https://m.media-amazon.com/images/I/81doZywhnLL._AC_UY1000_.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 35,
+        "title": "Women Beige Textured Wedge Heel Loafers Beige / 40",
+        "price": 299.95,
+        "description": "Women Beige Textured Wedge Heel Loafers Beige / 40",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_FOOTWEAR_TRENDS",
+      "brand_image":"https://i.pinimg.com/736x/a1/e0/26/a1e026dfcdfdea1e89e80ac8e5314c36.jpg",
+        "category": "footwear",
+        "image": "https://www.shoetree.io/cdn/shop/files/MK-AW23-236-4_BEIGE_1_f101976d-47f6-45be-a2bc-2e8f605f5895.jpg?v=1736534498",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 36,
+        "title": "Buy DIGITAL SHOPEE Women's & Girls' Solid Side Split Hem Flare Leg Bell Bottom Pants Trouser (Black, Extra Small) at Amazon.in",
+        "price": 299.95,
+        "description": "Buy DIGITAL SHOPEE Women's & Girls' Solid Side Split Hem Flare Leg Bell Bottom Pants Trouser (Black, Extra Small) at Amazon.in",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_BOTTOMWEAR_TRENDS",
+      "brand_image":"https://www.tradeindia.com/blog/content/images/2023/07/Top-10-Most-Popular-Ladies-Lower.jpg",
+        "category": "bottoms",
+        "image": "https://m.media-amazon.com/images/I/71DHn6rEqsL._AC_UY1100_.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 37,
+        "title": "Buy Bottom Wear for woman Online in India | W for woman – wforwoman",
+        "price": 299.95,
+        "description": "Buy Bottom Wear for woman Online in India | W for woman – wforwoman",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_BOTTOMWEAR_TRENDS",
+      "brand_image":"https://www.fashionbazar.in/blog/wp-content/uploads/2023/05/Unique-Ultra-stylish-Ladies-Bottom-Wear-for-A-Cool-and-Breezy-Summer-1024x683.png",
+        "category": "bottoms",
+        "image": "https://wforwoman.com/cdn/shop/files/21MAF61132-920054_1.jpg?v=1721319519",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 38,
+        "title": "SASSAFRAS Women Navy Blue Comfort Fit Bell Bottom Knitted Pants",
+        "price": 299.95,
+        "description": "SASSAFRAS Women Navy Blue Comfort Fit Bell Bottom Knitted Pants",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_BOTTOMWEAR_TRENDS",
+      "brand_image":"https://www.tradeindia.com/blog/content/images/2022/08/10-Best-Ladies-Dress-Brands-in-India.jpg",
+        "category": "bottoms",
+        "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/19202986/2023/6/24/a18c3c8a-64bb-48a8-950c-5699e5ac39e91687582834263-SASSAFRAS-Women-Navy-Blue-Comfort-Fit-Bell-Bottom-Knitted-Pa-1.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 39,
+        "title": "Bell Bottom Jeans 30 / Blue / Cotton",
+        "price": 299.95,
+        "description": "Bell Bottom Jeans 30 / Blue / Cotton",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_BOTTOMWEAR_TRENDS",
+      "brand_image":"https://www.textilelook.com//images/product/sub_images/2023/01/Screenshot_20230105-230239_Drive-0-2023-01-05_23_26_17.jpg",
+        "category": "bottoms",
+        "image": "https://street9.com/cdn/shop/products/DNM00002240_4.jpg?v=1602527690",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }},
+        {"id": 40,
+        "title": "Shop Bottom Wear for Women Online at Best Price - American Eagle India",
+        "price": 299.95,
+        "description": "Shop Bottom Wear for Women Online at Best Price - American Eagle India",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"WOMEN_BOTTOMWEAR_TRENDS",
+      "brand_image":"https://i.ytimg.com/vi/_QlINVwPPYY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD9b7E4IHwMu7k3BR172CpEGQoFKQ",
+        "category": "bottoms",
+        "image": "https://imagescdn.aeo.in/img/app/product/3/39838361-16845422.jpg?auto=format&w=390",
+        "rating": {
+          "rate": 3.9,
+          "count": 73
+        }}
+
+ ],
+   "kids_products":[
+    {
+        "id": 1,
+        "title": "Redwolf - Normal Is Boring - Garfield Official Kids T-shirt-xl-(11-12-years) Yellow",
+        "price": 409.95,
+        "description": "Redwolf - Normal Is Boring - Garfield Official Kids T-shirt-xl-(11-12-years) Yellow",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_TSHIRT_TRENDS",
+      "brand_image":"https://looksgud.com/blog/wp-content/uploads/2017/09/boy-tshirt-brands.jpg",
+
+        "category": "kids-tshirts",
+        "image": "https://www.redwolf.in/image/cache/catalog/mens-t-shirts/kids/normal-is-boring-t-shirt-india-1-525x700.png?m=1687858332",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 2,
+        "title": "Spider-Man kids t-shirt with name",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_TSHIRT_TRENDS",
+      "brand_image":"https://imagescdn.thecollective.in/img/app/product/9/974281-12803316.jpg?w=500&auto=format",
+        "category": "kids-tshirts",
+        "image": "https://www.tenstickers.in/webp/t-shirts/large/spider-man-kids-t-shirt-with-name-19709.webp",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 3,
+        "title": "Buy HELLCAT Boys Multicolor Cotton Blend Printed Pack of 5 T-shirt | kids wear | t shirt for kids | t shirt for boys | t shirt | tshirt | tshirt boys |",
+        "price": 409.95,
+        "description": "Buy HELLCAT Boys Multicolor Cotton Blend Printed Pack of 5 T-shirt | kids wear | t shirt for kids | t shirt for boys | t shirt | tshirt | tshirt boys |",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_TSHIRT_TRENDS",
+      "brand_image":"https://www.mumkins.in/cdn/shop/files/boys-t-shirt-bu026278-green-1.jpg?v=1714635442&width=1080",
+        "category": "kids-tshirts",
+        "image": "https://www.jiomart.com/images/product/original/rvwphkvmbl/hellcat-boys-multicolor-cotton-blend-printed-pack-of-5-t-shirt-product-images-rvwphkvmbl-0-202207121125.jpg?im=Resize=(500,630)",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 4,
+        "title": "Baby Shark Kids T-Shirt",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_TSHIRT_TRENDS",
+      "brand_image":"https://cdn07.nnnow.com/web-images/large/styles/PU1HI539K9X/1580108892704/1.jpg",
+        "category": "kids-tshirts",
+        "image": "https://www.beawara.com/cdn/shop/products/1_f8f78d4b-f8d1-48a6-8cfb-a401f8a3a910_1080x.jpg?v=1658689797",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 5,
+        "title": "Kids Superhero Tshirt - Minnal Murali Official Merchandise 1-2 years",
+        "price": 409.95,
+        "description": "Kids Superhero Tshirt - Minnal Murali Official Merchandise 1-2 years",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_TSHIRT_TRENDS",
+      "brand_image":"https://5.imimg.com/data5/SELLER/Default/2024/2/390802512/QQ/JP/KF/212068425/child-printed-t-shirt-500x500.jpg",
+        "category": "kids-tshirts",
+        "image": "https://www.mydesignation.com/cdn/shop/files/kids-superhero-tshirt-minnal-murali-official-merchandise-200645.jpg?v=1716279263",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 6,
+        "title": "set of 4 bottoms kids",
+        "price": 409.95,
+        "description": "Buy Fashion Trend Baby Boy's and Baby Girl's Cotton Track Pants with Bottom Ribs (Multicolour, 0-6 Months) - Pack of 5 at Amazon.in",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_BOTTOMWEAR_TRENDS",
+      "brand_image":"https://brownliving.in/cdn/shop/collections/eco-friendly-kids-shorts-bottom-wear-878687.jpg?v=1719387547",
+        "category": "bottom-wear",
+        "image": "https://m.media-amazon.com/images/I/51bLo14teML._AC_UY1100_.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 7,
+        "title": "girls denim",
+        "price": 409.95,
+        "description": "Buy Reelize - Denim Jeans For Girls | Bell Bottom , Dark Blue | Kids Jeans , Single Button | 7 To 8 Years | Pack of 1 Online at Best Prices in India - JioMart.",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_BOTTOMWEAR_TRENDS",
+      "brand_image":"https://brownliving.in/cdn/shop/products/organic-cotton-girl-leggings-blue-verified-sustainable-girls-leggings-on-brown-living-363775.jpg?v=1704873825&width=1200",
+        "category": "bottom-wear",
+        "image": "https://www.jiomart.com/images/product/original/rvsrk4bhqw/reelize-denim-jeans-for-girls-bell-bottom-dark-blue-kids-jeans-single-button-7-to-8-years-pack-of-1-product-images-rvsrk4bhqw-0-202301201543.jpg?im=Resize=(500,630)",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 8,
+        "title": "Pack of 2",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+     "brand_name":"KIDS_BOTTOMWEAR_TRENDS",
+      "brand_image":"https://logan.nnnow.com/content/dam/nnnow-project/07-oct-2024/revised/KLP_TOPBANNER_1_1_NNNOW_AutumnWinter24_08-10-2024-mob.jpg",
+        "category": "bottom-wear",
+        "image": "https://5.imimg.com/data5/AQ/OV/MY-18804303/kids-bottom-wear-500x500.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 9,
+        "title": "kids girls bell bottom jeans",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_BOTTOMWEAR_TRENDS",
+      "brand_image":"https://5.imimg.com/data5/SELLER/PDFImage/2023/10/350070291/ZZ/FR/XV/195656362/kids-12590-rs-263.png",
+        "category": "bottom-wear",
+        "image": "https://images.meesho.com/images/products/117341722/m6wyr_512.webp",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 10,
+        "title": "Mi Arcus - Baby Boy Jogger Set Online In India - Buy Baby Jogger Set",
+        "price": 409.95,
+        "description": "Mi Arcus - Baby Boy Jogger Set Online In India - Buy Baby Jogger Set",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_BOTTOMWEAR_TRENDS",
+      "brand_image":"https://images-eu.ssl-images-amazon.com/images/I/71w0LTwkgYL._AC_UL330_SR330,330_.jpg",
+        "category": "bottom-wear",
+        "image": "https://miarcus.com/cdn/shop/files/misty-granite-corduroy-jogger-for-kids-8904351966553-279868.webp?v=1721277049",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 11,
+        "title": "Kids frock",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_FROCKS_TRENDS",
+      "brand_image":"https://logan.nnnow.com/content/dam/nnnow-project/23-nov-2020/GIRL-Dresses-PLPBanner-MOB.jpg",
+        "category": "frocks",
+        "image": "https://i.pinimg.com/736x/bf/5b/54/bf5b542b06b479785c87ae33e0d5f2d7.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 12,
+        "title": "Buy Frock And Dresses For Baby Girls, Kids Frocks Online-Cutedoll – cutedoll",
+        "price": 409.95,
+        "description": "Buy Frock And Dresses For Baby Girls, Kids Frocks Online-Cutedoll – cutedoll",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_FROCKS_TRENDS",
+      "brand_image":"https://www.mumkins.in/cdn/shop/files/mother-daughter-girls-gown-gs181178-rani-1.jpg?v=1737180760&width=2400",
+        "category": "frocks",
+        "image": "https://www.cutedoll.in/cdn/shop/files/434355380_18027047207307195_1870764301313977123_n_1_1.jpg?v=1736063783&width=1100",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 13,
+        "title": "Whine Colour Kids Birthday Frock LDF344 6Y",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_FROCKS_TRENDS",
+      "brand_image":"https://cdn.shopify.com/s/files/1/0331/6649/1788/files/SparklingStardustDressWithTrail_3_360x.webp?v=1683202395",
+        "category": "frocks",
+        "image": "https://princenprincess.in/cdn/shop/files/PG001.jpg?v=1718878592",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 14,
+        "title": "frocks",
+        "price": 409.95,
+        "description": "Girl Fancy Baby Kids Frock, Age Group: 3 to 4 Years at ₹ 210/piece in Chennai",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_FROCKS_TRENDS",
+      "brand_image":"https://www.mumkins.in/cdn/shop/files/baby_frock-Photoroom.jpg?v=1729741459&width=2160",
+        "category": "frocks",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2024/10/459223557/NP/KK/CD/2429868/kids-fancy-frock.jpeg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 15,
+        "title": "Charming White Kids Frock Adorned in Floral Laces",
+        "price": 409.95,
+        "description": "Charming White Kids Frock Adorned in Floral Laces",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_FROCKS_TRENDS",
+      "brand_image":"https://stanwellskids.in/cdn/shop/files/whitefrockkidsonlinestanwellskids_2.jpg?v=1716661617&width=1080",
+        "category": "frocks",
+        "image": "https://diademstore.com/cdn/shop/files/GLBWGWWH001S24_1_a133d684-9f82-4e74-8711-f12adab8bab7_460x@2x.webp?v=1717751575",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 16,
+        "title": " sweatshirt",
+        "price": 409.95,
+        "description": "Buy Girls Winter Sweatshirt or Hoodie with Pyjama Set | Kids Clothing Set for Boys & Girls | Pack of 3 (12Months - 24Months) at Amazon.in",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_SWEATSHIRT_TRENDS",
+      "brand_image":"https://assets.ajio.com/medias/sys_master/root/20221015/M0iv/634a609ef997ddfdbd2b16c6/-473Wx593H-410264912-black-MODEL.jpg",
+        "category": "sweat-shirts",
+        "image": "https://m.media-amazon.com/images/I/51G8DMlHSTL._AC_UY1100_.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 17,
+        "title": "sweatshirt",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_SWEATSHIRT_TRENDS",
+      "brand_image":"https://img.tatacliq.com/images/i21//437Wx649H/MP000000024686431_437Wx649H_202412101924131.jpeg",
+        "category": "sweat-shirts",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/sweatshirt/9/9/0/11-12-years-b-034-ame-rico-navy-myeonn-original-imagh83nptqz8xmt.jpeg?q=90&crop=false",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 18,
+        "title": " sweatshirt",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_SWEATSHIRT_TRENDS",
+      "brand_image":"https://rukminim2.flixcart.com/image/750/900/xif0q/kids-t-shirt/g/u/l/9-10-years-md-kd-hood-friends-modarue-original-imagu36qwyhjjegh.jpeg?q=20&crop=false",
+        "category": "sweat-shirts",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/kevpwnk0/sweatshirt/f/g/g/6-7-years-kids-boysweat-17-mustard-nick-and-jones-original-imafvgzbbu5xzpuz.jpeg?q=90&crop=false",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 19,
+        "title": " sweatshirt",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_SWEATSHIRT_TRENDS",
+      "brand_image":"https://cdn-images.farfetch-contents.com/24/21/97/29/24219729_55687837_600.jpg",
+        "category": "sweat-shirts",
+        "image": "https://www.montecarlo.in/cdn/shop/products/523063348-10-34_1.jpg?v=1697901473",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 20,
+        "title": " sweatshirt",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_SWEATSHIRT_TRENDS",
+      "brand_image":"https://assets.ajio.com/medias/sys_master/root/20240823/nn7g/66c8a5e06f60443f3124a3ad/-473Wx593H-442252648-black-MODEL.jpg",
+        "category": "sweat-shirts",
+        "image": "https://contents.mediadecathlon.com/p2299450/bdbc765b139638498e967f9151373428/p2299450.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 21,
+        "title": "footwear",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_FOOTWEAR_TRENDS",
+      "brand_image":"https://static.independent.co.uk/2023/06/16/17/best%20kids%20shoe%20brands.png?width=1200&height=1200&fit=crop",
+        "category": "footwear",
+        "image": "https://thelittlebunny.in/cdn/shop/files/WhatsApp_Image_2024-09-05_at_10.58.47.jpg?v=1725514179",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 22,
+        "title": "footwear",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_FOOTWEAR_TRENDS",
+      "brand_image":"https://actionfootwear.in/wp-content/uploads/2022/07/1-1-1.jpg",
+        "category": "footwear",
+        "image": "https://images.meesho.com/images/products/195719569/dzzs0_512.webp",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 23,
+        "title": "footwear",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_FOOTWEAR_TRENDS",
+      "brand_image":"https://www.rankandstyle.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Frns-dev%2Fmedia%2Flists%2Fk%2Fkids-shoe-brands.jpg&w=640&q=75",
+        "category": "footwear",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/3/RH/TH/MT/149710568/kids-boys-footwear.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 24,
+        "title": "footwear",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_FOOTWEAR_TRENDS",
+      "brand_image":"https://www.rankandstyle.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Frns-dev%2Fmedia%2Fproducts%2Fc%2Fconverse-kids-shoe-brands.jpg&w=3840&q=75",
+        "category": "footwear",
+        "image": "https://tiesta.in/cdn/shop/files/02.jpg?v=1728293107",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 25,
+        "title": "footwear",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_FOOTWEAR_TRENDS",
+      "brand_image":"https://image.made-in-china.com/202f0j00gIdqijSsSvbp/Wholesale-Name-Brand-Kids-Shoes.jpg",
+        "category": "footwear",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/2/GV/EC/UL/112547497/kids-footwear.png",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 26,
+        "title": "bags",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_BAGS_TRENDS",
+      "brand_image":"https://5.imimg.com/data5/SELLER/Default/2024/9/451726271/YB/DG/MJ/204390280/kids-school-bags-5-500x500.png",
+        "category": "bags",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/l0cr4i80/bag/l/t/e/38-fancy-kids-bags-school-bags-backpacks-styles-cartoon-original-imagc5p27aqhmegy.jpeg?q=90&crop=false",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 27,
+        "title": "bags",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_BAGS_TRENDS",
+      "brand_image":"https://m.media-amazon.com/images/I/51oMROjNshL._AC_UY1100_.jpg",
+        "category": "bags",
+        "image": "https://cdn.shopify.com/s/files/1/2354/1853/files/01_130f9412-9d13-4dae-af74-a553c5e4a809.jpg?v=1724828668",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 28,
+        "title": "bags",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_BAGS_TRENDS",
+      "brand_image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/30203728/2024/JULY/13/BA9K42Ic_0983209cc45d4144b3a8482a579d1288.jpg",
+        "category": "bags",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/backpack/s/0/f/unisex-casual-kids-backpack-school-bag-kids-bags-for-boys-girls-original-imagn8zghgyrje2f.jpeg?q=20&crop=false",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 29,
+        "title": "bags",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_BAGS_TRENDS",
+      "brand_image":"https://s.alicdn.com/@sc04/kf/Hd118e4e006d94157a293f0ffc7e2c39cj.jpg",
+        "category": "bags",
+        "image": "https://www.uniseoul.in/cdn/shop/files/CB-168-30NN-_9_1080x.jpg?v=1726072115",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 30,
+        "title": "bags",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+      "brand_name":"KIDS_BAGS_TRENDS",
+      "brand_image":"https://m.media-amazon.com/images/G/31/img2021/GIF/BWL/Schooll1/Skybags.jpg",
+        "category": "bags",
+        "image": "https://genietravel.com/cdn/shop/files/45DegreeAngle2_800bb9e7-7c86-40f7-a4cd-0b81ffc4d0a7_1200x.jpg?v=1737021543",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      }
+    ],
+    "home_products":[
+    {
+        "id": 1,
+        "title": "bed-sheets",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "bed-sheets",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20220323/k91g/623a22edaeb26921afeb3579/-473Wx593H-469149932-beige-MODEL.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 2,
+        "title": "bed-sheets",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "bed-sheets",
+        "image": "https://m.media-amazon.com/images/I/91avgySJj3L._AC_UF894,1000_QL80_.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 3,
+        "title": "bed-sheets",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "bed-sheets",
+        "image": "https://www.kiransboutique.com/wp-content/uploads/2021/12/1732946800570_Brown-Bedsheet-with-White-Geometric-Patterns-in-South-Cotton.jpeg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 4,
+        "title": "bed-sheets",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "bed-sheets",
+        "image": "https://divinecasa.com/cdn/shop/files/EM_4003-DB__1.jpg?v=1707372043&width=416",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 5,
+        "title": "bed-sheets",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "bed-sheets",
+        "image": "https://bluedahlia.in/cdn/shop/files/400TC_lily_green_LS_2_755916f3-8803-4e42-9d73-505bf46f13ce.webp?v=1718869575&width=1080",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 6,
+        "title": "utensils",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "utensils",
+        "image": "https://www.folkulture.in/cdn/shop/products/1_9a3dcc27-51bb-46d8-8391-fd1e21711c0b.jpg?v=1682003818",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 7,
+        "title": "utensils",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "utensils",
+        "image": "https://www.foodandwine.com/thmb/6IGkC_h56FwyaCh-nSoYVBwA6yw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/swap-black-plastic-for-stainless-steel-tout-e7ad6a1c2c5b4c6a941fb3a6dc4bda2d.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 8,
+        "title": "utensils",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "utensils",
+        "image": "https://static.toiimg.com/thumb/msid-108203751,width-1280,height-720,resizemode-4/108203751.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 9,
+        "title": "utensils",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "utensils",
+        "image": "https://mummalife.in/wp-content/uploads/2023/09/Stainless-Steel-Utensils.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 10,
+        "title": "utensils",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "utensils",
+        "image": "https://m.media-amazon.com/images/I/81Kxtu-Wc1L.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 11,
+        "title": "curtains",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "curtains",
+        "image": "https://drapestory.in/cdn/shop/files/523D_f6ab0091-534e-4b4f-a1bc-99fb33e96cab.jpg?v=1694761196",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 12,
+        "title": "curtains",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "curtains",
+        "image": "https://rukminim2.flixcart.com/image/720/864/kpedle80/curtain/u/i/u/garden-panel-maroon-set-of-2-long-door-curtains-275-long-door-original-imag3n8gfx2bmmzv.jpeg?q=60&crop=false",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 13,
+        "title": "curtains",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "curtains",
+        "image": "https://airwill.in/cdn/shop/files/82_85e36805-453f-41f5-96b5-ebf4d11a0c61_800x.jpg?v=1698497627",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 14,
+        "title": "curtains",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "curtains",
+        "image": "https://m.media-amazon.com/images/I/91SR5NN3QtL._AC_UF894,1000_QL80_.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 15,
+        "title": "curtains",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "curtains",
+        "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/16298246/2023/4/29/ab8e39ee-d92f-4832-a5ac-25e96bac0b011682748194526-URBAN-SPACE-Set-of-2-Pink-Solid-Window-Curtains-664168274819-1.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 16,
+        "title": "towels",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "towels",
+        "image": "https://cdn.pixelspray.io/v2/black-bread-289bfa/TIw66q/wrkr/t.resize(h:1240,w:1400)/data/Westelm/04Nov2020/7543848_7.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 17,
+        "title": "towels",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "towels",
+        "image": "https://m.media-amazon.com/images/I/81lT4bobboL.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 18,
+        "title": "towels",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "towels",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/best-bath-towels-1572897724.png?crop=0.621xw:0.892xh;0.182xw,0.108xh&resize=1120:*",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 19,
+        "title": "towels",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "towels",
+        "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/375827s.jpg?im=Resize,width=750",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+      {
+        "id": 20,
+        "title": "towels",
+        "price": 409.95,
+        "description": "Elegant pure silk Kanchipuram saree with intricate zari woven floral motifs in a rich red and gold color palette. Features a pallu with a detailed paisley design, perfect for grand wedding ceremonies. Comes with a matching zari-bordered blouse piece",
+        "original_price":220,
+      "offer_percent":50,
+      "size":["M","S","L","XL","XXL","XXL"],
+
+        "category": "towels",
+        "image": "https://heelium.in/cdn/shop/products/P4-BATH-PEAGRETEAWHT_1024x1024@2x.webp?v=1695812241",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      }
+
+      ]}
